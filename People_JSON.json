@@ -1,0 +1,22 @@
+{"People":
+    [
+        {
+            "Name" : "Alan",
+            "Email" : ["alanherrera1093@gmail.com", "alanherrera1093@outlook.com"],
+            "Age" : 26,
+            "Active" : true
+        },
+        {
+            "Name" : {"FN": "Martha", "LN":"Rojas"},
+            "Email" : "martharojas@gmail.com",
+            "Age" : 26,
+            "Active" : true
+        }
+    ],
+"Person":
+    [
+        {
+            "OtherParam":"BlaBla"
+        }
+    ]
+}
