@@ -16,8 +16,4 @@ for doc in documents:
         y = y + 1
     print("First names in the document are: {}".format(names))
     
-<<<<<<< HEAD
-    otro commment
-=======
 def(test_merge_conflict)
->>>>>>> HotFix
