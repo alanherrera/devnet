@@ -15,3 +15,5 @@ for doc in documents:
             names = names +" "+","+" "+doc['people'][y]['FirstName']
         y = y + 1
     print("First names in the document are: {}".format(names))
+    
+    otro commment
